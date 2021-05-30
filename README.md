@@ -1,4 +1,4 @@
 # coding_Django
-just django assignments
+to store django assignments
 
-first homework for django fullstack
+first homework for django fullstack is  Semi-Restful TV Shows
